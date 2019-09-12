@@ -19,8 +19,9 @@ Solution :
             hour=float(hrs)
             pay=rate*hour
             print("Pay:",pay)
+Week 5
 
-Assignment 3.3 :
+Assignment 3.3 
 
 Question :
            Write a program to prompt for a score between 0.0 and 1.0. 
