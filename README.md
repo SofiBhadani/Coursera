@@ -1,4 +1,4 @@
-# Coursera
+# Programming For Everybody - University of Michigan
 This respository consists of the assignments and peer to peer tests of all the Coursera courses I have completed.
 
 The first course is Programming for Everybody - University if Michigan . 
