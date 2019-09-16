@@ -58,4 +58,9 @@ Source Code :
                       for lx in file2:
 	                      lx=lx.strip()
 	                      print(lx.upper())
+			      
+			      
+Assignment 7.2 
+
+Week 3
 
