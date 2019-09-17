@@ -1,5 +1,7 @@
 # Programming For Everybody - University of Michigan
-This respository consists of the assignments and peer to peer tests of all the Coursera courses I have completed.
+This respository consists of the assignments and peer to peer tests of the course Programming-for-Everybody(Python)-University-of-Michigan on Coursera.
+
+
 
 The first course is Programming for Everybody - University if Michigan . 
   This course consists of 4 sub-courses and each course has several weeks. 
