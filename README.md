@@ -17,15 +17,3 @@ The first course is Programming for Everybody - University if Michigan .
  And at last there is a Capstone Project which shall get you a Specialization Degree from the University :
  Capstone: Retrieving, Processing, and Visualizing Data with Python
  
- 
- 
- 
- 
- 
- 
-
-
-
-
-
-
