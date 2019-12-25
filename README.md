@@ -1,5 +1,5 @@
 # Programming For Everybody - University of Michigan
-This respository consists of the assignments and peer to peer tests of the course Programming-for-Everybody(Python)-University-of-Michigan on Coursera.
+This respository consists of the assignments and peer to peer tests of the course Programming-for-Everybody(Python)-University-of-Michigan.
 
 
 
