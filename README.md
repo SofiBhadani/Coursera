@@ -12,8 +12,8 @@ The first course is Programming for Everybody - University if Michigan .
   
   Course 3 -Using Python to Access Web Data
  
- Course 4 -Using Databases with Python
+  Course 4 -Using Databases with Python
  
- And at last there is a Capstone Project which shall get you a Specialization Degree from the University :
+And at last there is a Capstone Project which shall get you a Specialization Degree from the University :
  Capstone: Retrieving, Processing, and Visualizing Data with Python
  
